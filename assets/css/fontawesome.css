@@ -1,0 +1,8 @@
+.ko-fi::after {
+      content: '\f004';
+      font-weight: 900;
+      font-size: 8px;
+      color: #404040;
+      position: absolute;
+      margin: 7.5px 0 0 -14px;
+}
